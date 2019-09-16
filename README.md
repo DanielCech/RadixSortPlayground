@@ -16,3 +16,5 @@ Implementation of RadixSort using both array and linked list. For some sets of n
 * Memory Complexity: ![Memory](https://wikimedia.org/api/rest_v1/media/math/render/svg/9b4a94f070d68b2a9f060bc5fd2baab07f1f1a94)
 * In place: no
 * Stable: yes
+
+Legend: *n* items to be sorted, with keys of size *k*, digit size *d*
