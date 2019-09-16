@@ -3,12 +3,12 @@
 Implementation of RadixSort using both array and linked list. For some sets of numbers can produce better results than sorting algorithms based on number comparison.
 
 <p align="center">
-![RadixSortMachine](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/SEACComputer_038.jpg/220px-SEACComputer_038.jpg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/SEACComputer_038.jpg/220px-SEACComputer_038.jpg" width="180" max-width="180" alt="Marathon" />
 </p>
 
 #### LSD RadixSort Algorithm (less significant digit)
 <p align="center">
-![Sort](https://nicksypark.github.io/assets/images/RadixSort.png)
+  <img src="https://nicksypark.github.io/assets/images/RadixSort.png" width="180" max-width="180" alt="Marathon" />
 </p>
 
 #### Complexity
